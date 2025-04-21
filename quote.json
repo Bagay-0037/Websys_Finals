@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "quote": "Everyone sees what you appear to be, few experience what you really are.",
+        "author": "Machiavelli"
+    },
+    {
+        "id":2,
+        "quote": "Rene Descartes",
+        "author": "I think therefore I am"
+    },
+    {
+        "id":3,
+        "quote": "Everything has beauty, but not everyone sees it.",
+        "author": "Confucius"
+    },
+    {
+        "id":4,
+        "quote": "I am nothing but I must be everything.",
+        "author": "Karl Marx"
+    },
+    {
+        "id":5,
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+    }
+]
