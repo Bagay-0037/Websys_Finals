@@ -1,0 +1,17 @@
+{
+    "id":1,
+    "name":"jane doe",
+    "email":"sample@gmail.com",
+    "phone": "+63 910 661 4556",
+    "address": {
+        "street": "123 St.",
+        "city":"Town",
+        "state":"CA",
+        "zip": "123456"
+    },
+    "company": {
+        "name": "Tech Solutions",
+        "position":"Software Engineer",
+        "dept":"Development"
+    }
+}
